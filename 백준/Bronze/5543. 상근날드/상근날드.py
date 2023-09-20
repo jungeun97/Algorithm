@@ -1,0 +1,6 @@
+sang = int(input())
+jung = int(input())
+ha = int(input())
+cola = int(input())
+cidar = int(input())
+print(min(sang, jung, ha) + min(cola, cidar) - 50)
